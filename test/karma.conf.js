@@ -291,6 +291,10 @@ module.exports = function(config) {
 					js: '//cdnjs.cloudflare.com/ajax/libs/foundation/6.1.1/foundation.min.js',
 					css: '//cdnjs.cloudflare.com/ajax/libs/foundation/6.1.1/foundation.min.css'
 				},
+				flowbite: {
+					js: '//cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.js',
+					css: '//cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.css'
+				},
 				uikit: {
 					js: '//cdnjs.cloudflare.com/ajax/libs/uikit/2.24.3/js/uikit.min.js',
 					css: '//cdnjs.cloudflare.com/ajax/libs/uikit/2.24.3/css/uikit.min.css'
